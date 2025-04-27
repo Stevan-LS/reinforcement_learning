@@ -57,3 +57,5 @@ from stable_baselines3 import A2C
 
 # Load the model directly from Hugging Face Hub
 model = A2C.load("StevanLS/a2c-cartpole-v1")
+
+Stevan Le Stanc
